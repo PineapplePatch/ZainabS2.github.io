@@ -2,12 +2,12 @@
     color: white;
     position: absolute;
     border: 2px solid white;
-    border-radius: 8px;
+    border-radius: 20px;
     width: 400px;
-    height: 500px;
+    height: 450px;
     z-index: 100;
-    top: 40%;
-    left: 55%;
+    top: 30%;
+    left: 50%;
     margin: -75px 0px 0px -200px;
 }
 #loginBackground {
