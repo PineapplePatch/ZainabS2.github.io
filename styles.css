@@ -9,3 +9,6 @@
     left: 50%;
     margin: -75px 0px 0px -200px;
 }
+#loginBackground {
+    background: url("https://vignette.wikia.nocookie.net/harrypotter/images/9/96/Dumbledore%27s_Army.jpg/revision/latest?cb=20161123060553") no-repeat center center fixed;
+    background-size: cover;
