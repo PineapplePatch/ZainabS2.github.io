@@ -13,3 +13,6 @@
 #loginBackground {
     background: url("https://i.pinimg.com/736x/db/5f/92/db5f92e2d71ad969fe3aa4cba14fd7cb--harry-potter--always-harry-potter.jpg") no-repeat center center fixed;
     background-size: cover;
+}
+h1 {
+    color: white;
