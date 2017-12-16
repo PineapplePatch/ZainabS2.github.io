@@ -1,10 +1,10 @@
 #loginpage {
     color: white;
     position: absolute;
-    border: 2px solid white;
+    border: 10px solid white;
     border-radius: 20px;
-    width: 400px;
-    height: 450px;
+    width: 450px;
+    height: 300px;
     z-index: 100;
     top: 30%;
     left: 50%;
